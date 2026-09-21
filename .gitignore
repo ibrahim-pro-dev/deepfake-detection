@@ -1,0 +1,27 @@
+﻿# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- virtualenv ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- streamlit / runtime ---
+*.streamlit*
+
+# --- OneDrive junk (explicit) ---
+.~#.*
+~$*
+*.tmp
+
+# --- git junk ---
+.gitignore/
